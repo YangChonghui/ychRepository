@@ -1,4 +1,4 @@
-# jhtest
+# jhtest 下面也是自动生成的
 This application was generated using JHipster 4.5.3, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.5.3](https://jhipster.github.io/documentation-archive/v4.5.3).
 
 ## Development
